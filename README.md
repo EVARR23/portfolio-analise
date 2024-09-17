@@ -15,4 +15,4 @@ projetos, sendo um:
 
 - Site utilizado para elaboração de Plano [Saucedemo](https://www.saucedemo.com/inventory.html)
 
-![Home Site Saucedemo](img\site_saucedemo.png)
+![Home Site Saucedemo](img/site_saucedemo.png)
